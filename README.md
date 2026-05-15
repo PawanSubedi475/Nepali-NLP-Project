@@ -1,5 +1,5 @@
 # Cross-Lingual Transfer Learning for Low-Resource Nepali News Classification
-### CS7050NI – Artificial Intelligence | Coursework 01 | Spring 2026
+### CS7050NI – Artificial Intelligence | Spring 2026
 
 A comparative study of **TextCNN**, **BiLSTM-Attention**, and **XLM-R** for 10-class Nepali news classification under three cross-lingual transfer conditions, using 69,726 Nepali articles (Babu, 2024) and 120,000 English AG News samples.
 
