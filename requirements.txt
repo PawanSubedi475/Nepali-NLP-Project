@@ -1,0 +1,45 @@
+# Cross-Lingual NLP for Nepali News Classification
+# CS7050NI — Artificial Intelligence | Spring 2026
+# ─────────────────────────────────────────────────
+# Core ML / DL
+torch==2.1.2
+torchvision==0.16.2
+
+# Transformer library (for XLM-R)
+transformers==4.38.2
+sentencepiece==0.1.99
+
+# HuggingFace Datasets (for AG News)
+datasets==2.18.0
+
+# Scientific computing
+numpy==1.26.4
+scipy==1.12.0
+scikit-learn==1.4.1
+
+# Data handling
+pandas==2.2.1
+
+# Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Utilities
+tqdm==4.66.2
+accelerate==0.27.2
+
+# Optional: Jupyter notebook support
+jupyter==1.0.0
+ipykernel==6.29.3
+
+# ─── Installation ────────────────────────────────
+# CPU-only (default):
+#   pip install -r requirements.txt
+#
+# CUDA 11.8:
+#   pip install torch==2.1.2+cu118 --index-url https://download.pytorch.org/whl/cu118
+#   pip install -r requirements.txt
+#
+# CUDA 12.1:
+#   pip install torch==2.1.2+cu121 --index-url https://download.pytorch.org/whl/cu121
+#   pip install -r requirements.txt
