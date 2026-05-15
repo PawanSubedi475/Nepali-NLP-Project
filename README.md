@@ -218,7 +218,8 @@ Nepali News Classification: A Comparative Study of CNN, BiLSTM-Attention,
 and XLM-R. CS7050NI Coursework, Islington College / London Metropolitan University.
 ```
 
-**Dataset:** Babu, N. (2024). Dataset for News Categorization. Kaggle.  
+**Dataset:** Babu, N. (2024). Dataset for News Categorization. Kaggle/The Nepali
+News Dataset Large (Pant, 2024)  
 **XLM-R:** Conneau, A., et al. (2020). Unsupervised Cross-lingual Representation Learning at Scale. ACL.  
 **TextCNN:** Kim, Y. (2014). Convolutional Neural Networks for Sentence Classification. EMNLP.  
 **BiLSTM-Attn:** Zhou, P., et al. (2016). Attention-Based Bidirectional LSTM for Relation Classification. ACL.
